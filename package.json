@@ -4,7 +4,7 @@
   "repository": "http://github.com/jiangts/jsOTP",
   "author": "Allan Jiang",
   "dependencies": {
-    "grunt": "~0.4.0",
+    "grunt": "~1.4.0",
     "grunt-contrib-coffee": "*",
     "grunt-contrib-watch": "*"
   },
